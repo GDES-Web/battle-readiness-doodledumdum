@@ -2,4 +2,26 @@ body {
     max-width: 1280px;
     background-color: darkgrey;
     color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.logo {
+    background-color: gray;
+}
+
+nav {
+    background-color: gray;
+}
+
+header {
+    background-color: gray;
+}
+
+.sidebar {
+    background-color: gray;
+}
+
+footer {
+    background-color: gray;
 }
