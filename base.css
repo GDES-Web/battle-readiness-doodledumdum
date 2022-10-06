@@ -8,20 +8,45 @@ body {
 
 .logo {
     background-color: gray;
+    padding: 2em;
+    margin: 1em;
 }
 
 nav {
     background-color: gray;
+    padding: 1em;
+    margin: 1em;
 }
 
 header {
     background-color: gray;
+    padding: 3em;
+    margin: 1em;
+}
+
+.containerig {
+    display: flex;
 }
 
 .sidebar {
     background-color: gray;
+    width: 130px;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  overflow-x: hidden;
+  padding: 12em 2em;
+  margin: 1em;
+}
+
+.bodyarea {
+    background-color: gray;
+    padding: 12em 30em;
+    margin: 1em;
 }
 
 footer {
     background-color: gray;
+    padding: 1em;
+    margin: 1em;
 }
