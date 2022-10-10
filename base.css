@@ -8,20 +8,36 @@ body {
 
 .logo {
     background-color: gray;
+    padding: 1em;
+    margin: 1em;
 }
 
-nav {
-    background-color: gray;
+.container {
+    display: flex;
+    margin: auto;
 }
 
 header {
     background-color: gray;
+    padding: 3em 30em;
+    margin: 1em;
+}
+
+
+.bodyarea {
+    background-color: gray;
+    padding: 12em;
+    margin: 1em;
 }
 
 .sidebar {
-    background-color: gray;
+    background-color: darkgray;
+    padding: 3em;
+    margin: 1em;
 }
 
 footer {
     background-color: gray;
+    padding: 1em;
+    margin: 1em;
 }
