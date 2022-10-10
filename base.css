@@ -6,16 +6,34 @@ body {
     margin: auto;
 }
 
-.logo {
-    background-color: gray;
-}
 
 nav {
     background-color: gray;
+    padding: 1em;
+    margin: 1em;
+    display: flex;
+}
+
+.introtext {
+    background-color: gray;
+    padding: 2em;
+    margin: 1em;
 }
 
 header {
     background-color: gray;
+    padding: 2em;
+    margin: 1em;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    background-color: gray;
+    padding: 10em;
+    margin: auto;
 }
 
 .sidebar {
@@ -24,4 +42,6 @@ header {
 
 footer {
     background-color: gray;
+    padding: 1em;
+    margin: 1em;
 }
